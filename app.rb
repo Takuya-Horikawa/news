@@ -15,7 +15,6 @@ get "/" do
 view "ask"
    
 
-
 end
 
 get "/news" do
